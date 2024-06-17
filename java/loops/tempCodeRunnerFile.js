@@ -1,0 +1,1 @@
+ // if (Object.hasOwnProperty.call(obj, key))
